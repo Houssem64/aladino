@@ -1,2 +1,2 @@
 # aladino
-## https://aladino-snowy.vercel.app/  
+## https://aladino-website.vercel.app/
